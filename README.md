@@ -1,5 +1,5 @@
 # cub3d
-(DOOM like FPS)
+(DOOM-like FPS)
 
 SUGGESTION:
 
@@ -13,14 +13,13 @@ run the Column Map, or any other map at /maps/bonus/:
 
 # OBJECTIVE:
 
-Collect all souls, kill all enemies and don't die.
+Collect all items, kill all enemies and don't die.
 
 # CONTROLS:
 
 ## MOVE:
 
- W
-ASD
+WASD
 
 ## ROTATE CAMERA
 
@@ -34,4 +33,8 @@ Left SHIFT
 
 M - Toggle Minimap ON / OFF
 
-E - Toggle Enemies ON / OFF
+I - Toggle Enemies ON / OFF
+
+## EXIT
+
+ESC
